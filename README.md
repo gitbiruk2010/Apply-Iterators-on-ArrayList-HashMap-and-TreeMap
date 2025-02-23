@@ -1,8 +1,11 @@
 # **Applying Iterators in Java**
 
-This Java program demonstrates the use of **iterators** across three fundamental data structures: **ArrayList**, **HashMap**, and **TreeMap**. It includes **normal test cases** (typical usage scenarios) and **edge test cases** (unusual or extreme scenarios) to ensure robust behavior.
+This is a simple Java program demonstrating the use of **iterators** across three fundamental data structures: **ArrayList**, **HashMap**, and **TreeMap**. It includes **normal test cases** (typical usage scenarios) and **edge test cases** (unusual or extreme scenarios) to ensure the program handle this scenarios.
 
 ---
+## Output
+![image](https://github.com/user-attachments/assets/9345d0cb-1da6-47a3-8ca3-4e938d9d17b6)
+
 
 ## **Features**
 1. **ArrayList Iteration**:
